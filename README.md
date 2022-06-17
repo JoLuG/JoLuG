@@ -1,4 +1,7 @@
-### Hi, Im Jorge👋
+### Hello, I'm Jorge👋
+
+💻 Software Developer
+
 
 <!--
 **JoLuG/JoLuG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
